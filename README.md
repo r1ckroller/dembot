@@ -15,7 +15,7 @@ apt-get install git python
 pip install aiogram
 
 # клонируем репозиторий
-git clone https://github.com/error1001es/teleghoul.git
+git clone https://github.com/r1ckroll/dembot.git
 
 
 # Запустите бота
